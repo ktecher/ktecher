@@ -1,4 +1,4 @@
-# Farouk
+# Farouk Nuseibeh
 
 Full-stack and AI engineer in Kuwait. I build production platforms used by thousands of people, and LLM systems that run on local hardware with Arabic as a first-class language.
 
@@ -23,3 +23,7 @@ Full-stack developer on the university's internal platforms, used by **2,000+ st
 ## Looking for
 
 AI / LLM engineer, AI solutions engineer, platform engineer, and senior-to-staff full-stack roles.
+
+## Contact
+
+alkhazraji.x@gmail.com
